@@ -1,0 +1,13 @@
+__pycache__
+*.swp
+*egg-info
+.pickle.gz
+*.bak
+dist/
+.coverage
+.DS_Store
+*.pyc
+*.lmdb
+/venv/
+.idea
+*.hypothesis*
